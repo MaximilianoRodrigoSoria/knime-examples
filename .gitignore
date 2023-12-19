@@ -182,3 +182,7 @@ fabric.properties
 .idea/**/azureSettings.xml
 
 # End of https://www.toptal.com/developers/gitignore/api/intellij,eclipse
+/.idea/vcs.xml
+/.idea/knime-examples.iml
+/.idea/misc.xml
+/.idea/modules.xml
