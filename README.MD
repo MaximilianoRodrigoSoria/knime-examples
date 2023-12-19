@@ -75,6 +75,8 @@ En este curso de transformación de datos con Knime de básico a intermedio abor
 
 
 ### ⭐ Autor
+<br>
+
 > ‍💻 **Nombre:** Maximiliano Rodrigo Soria
 > 
 > 📧 **Email:** MaximilianoRodrigoSoria@gmail.com
