@@ -12,7 +12,6 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/soriamaximilianorodrigo/" target="_blank" rel="noopener noreferrer"></a>
 
-# Knime
 
 <br/>
 <br/>
